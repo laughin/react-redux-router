@@ -38,7 +38,7 @@ npm run deploy
 .
 ├─ build/            # Webpack 配置目录
 ├─ dist/             # build 生成的生产环境下的项目
-├─ src/              # 源码目录（开发都在这里进行）
+├─ src/              # 源码目录
 │   ├─ components/     # 业务组件
 │   ├─ store/          # STORE
 │   ├── app.js         # 启动文件
